@@ -1,0 +1,1 @@
+--alter table plan add column active boolean default false;

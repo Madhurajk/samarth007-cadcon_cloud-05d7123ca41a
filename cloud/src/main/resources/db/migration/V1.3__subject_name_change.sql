@@ -1,0 +1,1 @@
+alter table subject alter column name set data type varchar(255);
